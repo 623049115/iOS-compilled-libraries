@@ -1,3 +1,4 @@
-# iOS-well-known-complied-libraries
-A collection of well known libraries which have been compiled for iOS platform. Just include to use. For example : ffmpeg, OpenCV, ...
+# ffmpeg (unknown version)
+
+####Support archicture : x86_64, i386 , armv7, armv7s
 
