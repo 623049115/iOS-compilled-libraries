@@ -5,15 +5,19 @@ A collection of well known libraries which have been compiled for iOS platform. 
 ================================
 <a href="https://github.com/FFmpeg/FFmpeg" target="_blank"><img src="http://trac.ffmpeg.org/ffmpeg-logo.png" alt="FFMpeg"/></a>
 
-####Version Unknown Stable
+####Version: Unknown Stable
   +   arch: x86_64, i386, armv7, armv7s
   +   link: https://github.com/haikieu/iOS-compilled-libraries/tree/master/compiled/ffmpeg/unknown_version_stable
   
 ==================================
 <a href="https://gitweb.torproject.org/tor.git/?h=release-0.2.6"><img src="https://gitweb.torproject.org/static/logo.jpg" alt="TorProject"/></a>
 
-####Version: release-0.2.6: On-going
-
+####Version: release-0.2.6
+  + arch: x86_64, i386, armv7, armv7s
+  + min deployment os : 7.0
+  + ios sdk : 8.1
+  + dependencies : libevent-2.0.21-stable, openssl-1.0.1i.tar
+  + link: https://github.com/haikieu/iOS-compilled-libraries/tree/master/compiled/tor/tor-release-0.2.6
 ==================================
 <a href="http://opencv.org/"><img src="http://opencv.org/wp-content/themes/opencv/images/logo.png" alt="OpenCV"/></a>
 
