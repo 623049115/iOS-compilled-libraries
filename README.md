@@ -18,6 +18,7 @@ A collection of well known libraries which have been compiled for iOS platform. 
   + ios sdk : 8.1
   + dependencies : libevent-2.0.21-stable, openssl-1.0.1i.tar
   + link: https://github.com/haikieu/iOS-compilled-libraries/tree/master/compiled/tor/tor-release-0.2.6
+  + 
 ==================================
 <a href="http://opencv.org/"><img src="http://opencv.org/wp-content/themes/opencv/images/logo.png" alt="OpenCV"/></a>
 
