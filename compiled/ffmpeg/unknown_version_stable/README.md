@@ -2,6 +2,7 @@
 
 ####Support archicture : x86_64, i386 , armv7, armv7s
 
+===============================
 The MIT License (MIT)
 
 Copyright (c) 2015 haikieu2907.icloud.com
