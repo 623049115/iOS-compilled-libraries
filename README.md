@@ -16,7 +16,7 @@ A collection of well known libraries which have been compiled for iOS platform. 
   + arch: x86_64, i386, armv7, armv7s
   + min deployment os : 7.0
   + ios sdk : 8.1
-  + dependencies : libevent-2.0.21-stable, openssl-1.0.1i.tar
+  + dependencies : libevent-2.0.21-stable, openssl-1.0.1i
   + link: https://github.com/haikieu/iOS-compilled-libraries/tree/master/compiled/tor/tor-release-0.2.6
   + 
 ==================================
