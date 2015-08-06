@@ -1,10 +1,16 @@
 # Tor version : release-0.2.6
 
-Dependencies :
+#####Arch : x86_64, i386, armv7, armv7s
+#####Min iOS deployment : 7.0
+#####iOS SDK : 8.1
+#####Support archicture : x86_64, i386 , armv7, armv7s
+#####Dependencies :
     + libevent-2.0.21-stable.tar
     + openssl-1.0.1i.tar
 
-####Support archicture : x86_64, i386 , armv7, armv7s
+
+
+===============================
 
 The MIT License (MIT)
 
