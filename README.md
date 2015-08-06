@@ -1,4 +1,4 @@
-# iOS well known complied libraries
+# iOS complied libraries
 ================
 A collection of well known libraries which have been compiled for iOS platform. Just include to use. For example : ffmpeg, OpenCV, ...
 
@@ -17,8 +17,9 @@ A collection of well known libraries which have been compiled for iOS platform. 
 <a href="http://opencv.org/"><img src="http://opencv.org/wp-content/themes/opencv/images/logo.png" alt="OpenCV"/></a>
 
 
-<a href="https://github.com/BradLarson/GPUImage"><img src="https://camo.githubusercontent.com/68ce8767f20b6a40f2a695c56396d30234363431/687474703a2f2f73756e7365746c616b65736f6674776172652e636f6d2f73697465732f64656661756c742f66696c65732f475055496d6167654c6f676f2e706e67" alt="GPUImage"/></a>
+<a href="https://github.com/BradLarson/GPUImage"><img
+src="https://camo.githubusercontent.com/68ce8767f20b6a40f2a695c56396d30234363431/687474703a2f2f73756e7365746c616b65736f6674776172652e636f6d2f73697465732f64656661756c742f66696c65732f475055496d6167654c6f676f2e706e67" alt="GPUImage"/></a>
 
 
-
+=================================
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SLWW2XYDATUYS" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Make donation for Hai Kieu's github"/></a>
